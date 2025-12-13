@@ -1,0 +1,23 @@
+Raffael Ramadan
+	•	About
+	•	Projects
+	•	Skills
+	•	Contact
+About Me
+I’m a 28-year-old London-based IT enthusiast with a passion for technology, creativity, and problem-solving. When I’m not working on tech projects, you’ll usually find me watching or playing football, diving into movies, or creating YouTube content in my spare time. I enjoy combining my technical skills with creativity, whether that’s through digital projects, video production, or exploring new ideas online.
+
+My Projects
+
+
+Portfolio Website
+My personal portfolio showcasing my projects and skills
+View on GitHub
+Skills
+	•	HTML/CSS
+	•	JavaScript
+	•	Git/GitHub
+Contact
+GitHub: github.com/raffaelramadan6-lang
+Email: raffaelramadan6@gmail.com
+LinkedIn: www.linkedin.com/in/raffael-ramadan-8704a8336
+Youtube: @VideoRami
